@@ -30,7 +30,8 @@ Faça  um programa  que receba  a  idade  e  a  opinião  de  um  número  indet
 8)Faça um programa que receba um número, calcule e mostre a tabuada desse número na tela. 
 
 9)Faça um programa que receba a idade e o peso de 10 pessoas. Calcule e mostre na tela: 
-    • Amédia das idades •O maior peso 
+    • Amédia das idades 
+    • O maior peso 
     • A média das idades das pessoas com idade entre 30 e 40 anos
     • A quantidade de pessoas com peso superior a 70 quilos
     
