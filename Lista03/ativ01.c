@@ -5,12 +5,6 @@
 int main() {
 	setlocale(LC_ALL, "portuguese");
 
-    //1. Escreva um programa que leia uma matriz de ordem 3 x 5 de elementos inteiros, calcule e mostre na tela:
-    //  a) menor número da matriz;
-    //  b) soma dos números múltiplos de 3 da matriz;
-    //  c) maior número da 3ª coluna da matriz (índice 2);
-    //  d) média dos números da matriz;
-    
     const int LIN=3, COL=5;
     int mat[LIN][COL], menor=999999, soma3=0, maior=0, i, j;
     float total=0, media;

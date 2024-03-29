@@ -5,12 +5,6 @@
 int main() {
 	setlocale(LC_ALL, "portuguese");
 
-    //2.Escreva um  programa  que  preencha  uma  matriz 4x6 com  números  inteiros, calcule e mostre na tela:
-    //  a)A quantidade de números que estão no intervalo entre 10 e 30
-    //  b)A soma dos números maiores que 10 e pares
-    //  c)A soma dos números que estão na quarta coluna da matriz
-    //  d)A média dos números da matriz que estão na terceira linha
-
     const int LIN=4, COL=6;
     int mat[LIN][COL], i, j, qtd=0, soma10=0, soma4a=0, qtdm=0;
     float total, media; 
